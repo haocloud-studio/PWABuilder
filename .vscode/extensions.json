@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "bierner.lit-html",
+    "runem.lit-plugin",
+    "esbenp.prettier-vscode",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "msjsdiag.debugger-for-edge",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
